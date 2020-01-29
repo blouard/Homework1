@@ -49,3 +49,9 @@ p{
     background-color: #f69680;
     color:#2e1263;
 }
+
+button:hover{
+    transition: 3s;
+    background-color: #2e1263;
+    color: #f69680;
+}
